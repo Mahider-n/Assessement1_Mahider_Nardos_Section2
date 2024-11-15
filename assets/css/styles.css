@@ -8,7 +8,7 @@ body{
 }
 /* header part */
 header{
-    background-color: rgb(160, 202, 188);
+    background-color: #D9EED9;
     text-align: center;
     padding: 30px 30px;
 }
@@ -30,7 +30,7 @@ nav ul li{
 }
 nav ul li a{
     text-decoration: none;
-    color: rgb(18, 156, 110);
+    color: #4caf50;
 }
 nav ul li a:hover{
     background-color: rgba(165, 163, 163, 0.559);
@@ -76,7 +76,7 @@ article p{
 /* footer part */
 footer{
     text-align: center;
-    background: darkgreen;
+    background: #124314;
     padding: 20px;
     color: white;
     font-size: small;
